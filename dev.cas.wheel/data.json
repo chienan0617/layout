@@ -1,0 +1,22 @@
+{
+  "熱門遊戲抽獎": [
+    { "text": "PS5 主機", "icon": "🎮", "color": "#4d089a", "chance": 1 },
+    { "text": "遊戲手把", "icon": "🕹️", "color": "#7000ff", "chance": 5 },
+    { "text": "1000 點卷", "icon": "🧧", "color": "#f425af", "chance": 10 },
+    { "text": "參加獎", "icon": "💩", "color": "#1e3a8a", "chance": 50 },
+    { "text": "下次好運", "icon": "🍀", "color": "#00d2ff", "chance": 34 }
+  ],
+  "今天吃什麼": [
+    { "text": "豪華和牛", "icon": "🥩", "color": "#b91c1c", "chance": 5 },
+    { "text": "拉麵", "icon": "🍜", "color": "#ea580c", "chance": 20 },
+    { "text": "麥當勞", "icon": "🍟", "color": "#eab308", "chance": 30 },
+    { "text": "超商涼麵", "icon": "🏪", "color": "#16a34a", "chance": 45 }
+  ],
+  "運氣大考驗": [
+    { "text": "大吉", "icon": "🏮", "color": "#dc2626", "chance": 10 },
+    { "text": "中吉", "icon": "✨", "color": "#f59e0b", "chance": 20 },
+    { "text": "小吉", "icon": "🍃", "color": "#10b981", "chance": 40 },
+    { "text": "末吉", "icon": "☁️", "color": "#6366f1", "chance": 20 },
+    { "text": "大凶", "icon": "👻", "color": "#4b5563", "chance": 10 }
+  ]
+}
