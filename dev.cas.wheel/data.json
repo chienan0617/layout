@@ -1,139 +1,752 @@
 {
-  "台北捷運路線站名": {
-    "淡水信義線 (紅線)": [
-      { "text": "淡水", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "紅樹林", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "竹圍", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "關渡", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "忠義", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "復興崗", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "北投", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "新北投", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "奇岩", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "唭哩岸", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "石牌", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "明德", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "芝山", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "士林", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "劍潭", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "圓山", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "民權西路", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "雙連", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "中山", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "台北車站", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "中正紀念堂", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "東門", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "大安森林公園", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "大安", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "信義安和", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "台北101/世貿", "icon": "🚇", "color": "#FF0000", "chance": 1 },
-      { "text": "象山", "icon": "🚇", "color": "#FF0000", "chance": 1 }
-    ],
-    "板南線 (藍線)": [
-      { "text": "頂埔", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "永寧", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "土城", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "海山", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "亞東醫院", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "府中", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "江子翠", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "龍山寺", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "西門", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "台北車站", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "善導寺", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "忠孝新生", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "忠孝復興", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "忠孝敦化", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "國父紀念館", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "市政府", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "永春", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "後山埤", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "昆陽", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "南港", "icon": "🚇", "color": "#0000FF", "chance": 1 },
-      { "text": "南港展覽館", "icon": "🚇", "color": "#0000FF", "chance": 1 }
-    ],
-    "松山新店線 (綠線)": [
-      { "text": "松山", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "南京三民", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "台北小巨蛋", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "南京復興", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "中山", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "北門", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "西門", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "小南門", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "中正紀念堂", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "古亭", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "台電大樓", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "公館", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "萬隆", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "景美", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "大坪林", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "七張", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "小碧潭", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "新店區公所", "icon": "🚇", "color": "#00A859", "chance": 1 },
-      { "text": "新店", "icon": "🚇", "color": "#00A859", "chance": 1 }
-    ],
-    "中和新蘆線 (橙線)": [
-      { "text": "南勢角", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "景安", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "永安市場", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "頂溪", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "忠孝新生", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "松江南京", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "行天宮", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "中山國小", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "民權西路", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "大橋頭", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "台北橋", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "菜寮", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "三重", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "先嗇宮", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "頭前庄", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "新莊", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "輔大", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "丹鳳", "icon": "🚇", "color": "#FF7F00", "chance": 1 },
-      { "text": "迴龍", "icon": "🚇", "color": "#FF7F00", "chance": 1 }
-    ],
-    "文湖線 (棕線)": [
-      { "text": "動物園", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "貓空纜車", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "辛亥", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "萬芳醫院", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "萬芳社區", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "景美", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "六張犁", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "科技大樓", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "大安", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "忠孝復興", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "南京復興", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "中山國中", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "松山機場", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "大直", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "劍南路", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "西湖", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "港墘", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "文德", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "內湖", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "葫洲", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "東湖", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "南港軟體園區", "icon": "🚇", "color": "#8B4513", "chance": 1 },
-      { "text": "南港展覽館", "icon": "🚇", "color": "#8B4513", "chance": 1 }
-    ],
-    "環狀線 (黃線)": [
-      { "text": "大坪林", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "十四張", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "秀朗橋", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "景平", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "景安", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "中和", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "橋和", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "中原", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "板新", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "板橋", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "新埔民生", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "頭前庄", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "幸福", "icon": "🚇", "color": "#FFFF00", "chance": 1 },
-      { "text": "新北產業園區", "icon": "🚇", "color": "#FFFF00", "chance": 1 }
-    ]
-  }
+  "淡水信義線 (紅線)": [
+    {
+      "text": "淡水",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "紅樹林",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "竹圍",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "關渡",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "忠義",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "復興崗",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "北投",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "新北投",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "奇岩",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "唭哩岸",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "石牌",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "明德",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "芝山",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "士林",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "劍潭",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "圓山",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "民權西路",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "雙連",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "中山",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "台北車站",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "中正紀念堂",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "東門",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "大安森林公園",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "大安",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "信義安和",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "台北101/世貿",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    },
+    {
+      "text": "象山",
+      "icon": "🚇",
+      "color": "#FF0000",
+      "chance": 1
+    }
+  ],
+  "板南線 (藍線)": [
+    {
+      "text": "頂埔",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "永寧",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "土城",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "海山",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "亞東醫院",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "府中",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "江子翠",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "龍山寺",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "西門",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "台北車站",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "善導寺",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "忠孝新生",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "忠孝復興",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "忠孝敦化",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "國父紀念館",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "市政府",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "永春",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "後山埤",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "昆陽",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "南港",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    },
+    {
+      "text": "南港展覽館",
+      "icon": "🚇",
+      "color": "#0000FF",
+      "chance": 1
+    }
+  ],
+  "松山新店線 (綠線)": [
+    {
+      "text": "松山",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "南京三民",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "台北小巨蛋",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "南京復興",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "中山",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "北門",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "西門",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "小南門",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "中正紀念堂",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "古亭",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "台電大樓",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "公館",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "萬隆",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "景美",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "大坪林",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "七張",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "小碧潭",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "新店區公所",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    },
+    {
+      "text": "新店",
+      "icon": "🚇",
+      "color": "#00A859",
+      "chance": 1
+    }
+  ],
+  "中和新蘆線 (橙線)": [
+    {
+      "text": "南勢角",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "景安",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "永安市場",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "頂溪",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "忠孝新生",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "松江南京",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "行天宮",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "中山國小",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "民權西路",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "大橋頭",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "台北橋",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "菜寮",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "三重",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "先嗇宮",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "頭前庄",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "新莊",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "輔大",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "丹鳳",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    },
+    {
+      "text": "迴龍",
+      "icon": "🚇",
+      "color": "#FF7F00",
+      "chance": 1
+    }
+  ],
+  "文湖線 (棕線)": [
+    {
+      "text": "動物園",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "貓空纜車",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "辛亥",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "萬芳醫院",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "萬芳社區",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "景美",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "六張犁",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "科技大樓",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "大安",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "忠孝復興",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "南京復興",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "中山國中",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "松山機場",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "大直",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "劍南路",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "西湖",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "港墘",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "文德",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "內湖",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "葫洲",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "東湖",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "南港軟體園區",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    },
+    {
+      "text": "南港展覽館",
+      "icon": "🚇",
+      "color": "#8B4513",
+      "chance": 1
+    }
+  ],
+  "環狀線 (黃線)": [
+    {
+      "text": "大坪林",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "十四張",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "秀朗橋",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "景平",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "景安",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "中和",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "橋和",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "中原",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "板新",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "板橋",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "新埔民生",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "頭前庄",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "幸福",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    },
+    {
+      "text": "新北產業園區",
+      "icon": "🚇",
+      "color": "#FFFF00",
+      "chance": 1
+    }
+  ]
 }
