@@ -5,7 +5,8 @@
     {"text": "環狀線", "color": "#FFFF00", "chance": 1},
     {"text": "松山新店線", "color": "#00A859", "chance": 1},
     {"text": "板南線", "color": "#0000FF", "chance": 1},
-    {"text": "文弧線", "color": "#8B4513", "chance": 1}
+    {"text": "文弧線", "color": "#8B4513", "chance": 1},
+    {"text": "台鐵", "color": "#42bcf5", "chance": 1}
   ],
   "淡水信義線 (紅線)": [
     { "text": "淡水", "color": "#FF0000", "chance": 1 },
