@@ -1,0 +1,338 @@
+{
+  "1000": [
+    "clear-day",
+    "clear-day",
+    "clear-day",
+    "clear-night",
+    "clear-night"
+  ],
+  "1003": [
+    "partly-cloudy-day",
+    "partly-cloudy-day",
+    "partly-cloudy-day",
+    "partly-cloudy-night",
+    "partly-cloudy-night"
+  ],
+  "1006": [
+    "cloudy",
+    "cloudy",
+    "cloudy",
+    "cloudy",
+    "cloudy"
+  ],
+  "1009": [
+    "overcast",
+    "overcast",
+    "overcast",
+    "overcast",
+    "overcast"
+  ],
+  "1030": [
+    "mist",
+    "mist",
+    "mist",
+    "mist",
+    "mist"
+  ],
+  "1063": [
+    "partly-cloudy-day-rain",
+    "partly-cloudy-day-rain",
+    "partly-cloudy-day-rain",
+    "partly-cloudy-night-rain",
+    "partly-cloudy-night-rain"
+  ],
+  "1066": [
+    "partly-cloudy-day-snow",
+    "partly-cloudy-day-snow",
+    "partly-cloudy-day-snow",
+    "partly-cloudy-night-snow",
+    "partly-cloudy-night-snow"
+  ],
+  "1069": [
+    "partly-cloudy-day-sleet",
+    "partly-cloudy-day-sleet",
+    "partly-cloudy-day-sleet",
+    "partly-cloudy-night-sleet",
+    "partly-cloudy-night-sleet"
+  ],
+  "1072": [
+    "partly-cloudy-day-hail",
+    "partly-cloudy-day-hail",
+    "partly-cloudy-day-hail",
+    "partly-cloudy-night-hail",
+    "partly-cloudy-night-hail"
+  ],
+  "1087": [
+    "thunderstorms",
+    "thunderstorms",
+    "thunderstorms",
+    "thunderstorms",
+    "thunderstorms"
+  ],
+  "1114": [
+    "wind-snow",
+    "wind-snow",
+    "wind-snow",
+    "wind-snow",
+    "wind-snow"
+  ],
+  "1117": [
+    "thunderstorms-extreme-snow",
+    "thunderstorms-extreme-snow",
+    "thunderstorms-extreme-snow",
+    "thunderstorms-extreme-snow",
+    "thunderstorms-extreme-snow"
+  ],
+  "1135": [
+    "fog-day",
+    "fog-day",
+    "fog-day",
+    "fog-night",
+    "fog-night"
+  ],
+  "1147": [
+    "overcast-fog",
+    "overcast-fog",
+    "overcast-fog",
+    "overcast-fog",
+    "overcast-fog"
+  ],
+  "1150": [
+    "partly-cloudy-day-drizzle",
+    "partly-cloudy-day-drizzle",
+    "partly-cloudy-day-drizzle",
+    "partly-cloudy-night-drizzle",
+    "partly-cloudy-night-drizzle"
+  ],
+  "1153": [
+    "drizzle",
+    "drizzle",
+    "drizzle",
+    "drizzle",
+    "drizzle"
+  ],
+  "1168": [
+    "sleet",
+    "sleet",
+    "sleet",
+    "sleet",
+    "sleet"
+  ],
+  "1171": [
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet"
+  ],
+  "1180": [
+    "partly-cloudy-day-rain",
+    "partly-cloudy-day-rain",
+    "partly-cloudy-day-rain",
+    "partly-cloudy-night-rain",
+    "partly-cloudy-night-rain"
+  ],
+  "1183": [
+    "rain",
+    "rain",
+    "rain",
+    "rain",
+    "rain"
+  ],
+  "1186": [
+    "overcast-day-rain",
+    "overcast-day-rain",
+    "overcast-day-rain",
+    "overcast-night-rain",
+    "overcast-night-rain"
+  ],
+  "1189": [
+    "overcast-day-rain",
+    "overcast-day-rain",
+    "overcast-day-rain",
+    "overcast-night-rain",
+    "overcast-night-rain"
+  ],
+  "1192": [
+    "extreme-day-rain",
+    "extreme-day-rain",
+    "extreme-day-rain",
+    "extreme-night-rain",
+    "extreme-night-rain"
+  ],
+  "1195": [
+    "extreme-day-rain",
+    "extreme-day-rain",
+    "extreme-day-rain",
+    "extreme-night-rain",
+    "extreme-night-rain"
+  ],
+  "1198": [
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-night-sleet",
+    "overcast-night-sleet"
+  ],
+  "1201": [
+    "extreme-day-sleet",
+    "extreme-day-sleet",
+    "extreme-day-sleet",
+    "extreme-night-sleet",
+    "extreme-night-sleet"
+  ],
+  "1204": [
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-night-sleet",
+    "overcast-night-sleet"
+  ],
+  "1207": [
+    "extreme-day-sleet",
+    "extreme-day-sleet",
+    "extreme-day-sleet",
+    "extreme-night-sleet",
+    "extreme-night-sleet"
+  ],
+  "1210": [
+    "partly-cloudy-day-snow",
+    "partly-cloudy-day-snow",
+    "partly-cloudy-day-snow",
+    "partly-cloudy-night-snow",
+    "partly-cloudy-night-snow"
+  ],
+  "1213": [
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-night-snow",
+    "overcast-night-snow"
+  ],
+  "1216": [
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-night-snow",
+    "overcast-night-snow"
+  ],
+  "1219": [
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-night-snow",
+    "extreme-night-snow"
+  ],
+  "1222": [
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-night-snow",
+    "extreme-night-snow"
+  ],
+  "1225": [
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-day-snow",
+    "extreme-night-snow",
+    "extreme-night-snow"
+  ],
+  "1237": [
+    "hail",
+    "hail",
+    "hail",
+    "hail",
+    "hail"
+  ],
+  "1240": [
+    "rain",
+    "rain",
+    "rain",
+    "rain",
+    "rain"
+  ],
+  "1243": [
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain"
+  ],
+  "1246": [
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain",
+    "extreme-rain"
+  ],
+  "1249": [
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-day-sleet",
+    "overcast-night-sleet",
+    "overcast-night-sleet"
+  ],
+  "1252": [
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet",
+    "extreme-sleet"
+  ],
+  "1255": [
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-day-snow",
+    "overcast-night-snow",
+    "overcast-night-snow"
+  ],
+  "1258": [
+    "extreme-snow",
+    "extreme-snow",
+    "extreme-snow",
+    "extreme-snow",
+    "extreme-snow"
+  ],
+  "1261": [
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail"
+  ],
+  "1264": [
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail",
+    "extreme-hail"
+  ],
+  "1273": [
+    "thunderstorms-day-rain",
+    "thunderstorms-day-rain",
+    "thunderstorms-day-rain",
+    "thunderstorms-night-rain",
+    "thunderstorms-night-rain"
+  ],
+  "1276": [
+    "thunderstorms-day-extreme-rain",
+    "thunderstorms-day-extreme-rain",
+    "thunderstorms-day-extreme-rain",
+    "thunderstorms-night-extreme-rain",
+    "thunderstorms-night-extreme-rain"
+  ],
+  "1279": [
+    "thunderstorms-day-snow",
+    "thunderstorms-day-snow",
+    "thunderstorms-day-snow",
+    "thunderstorms-night-snow",
+    "thunderstorms-night-snow"
+  ],
+  "1282": [
+    "thunderstorms-day-extreme-snow",
+    "thunderstorms-day-extreme-snow",
+    "thunderstorms-day-extreme-snow",
+    "thunderstorms-night-extreme-snow",
+    "thunderstorms-night-extreme-snow"
+  ]
+}
