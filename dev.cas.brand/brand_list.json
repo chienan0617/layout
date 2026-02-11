@@ -24,6 +24,12 @@
     "logo": "https://chienan0617.github.io/layout/common/logos/t.webp"
   },
   {
+    "name": "捷運轉盤",
+    "desc": "一個捷運轉盤",
+    "url": "https://chienan0617.github.io/wheel",
+    "logo": "https://chienan0617.github.io/layout/common/logos/wheel.webp"
+  },
+  {
     "name": "Block 方塊消消",
     "desc": "極簡風格的趣味益智挑戰",
     "url": "https://cas617.github.io/b/",
@@ -39,6 +45,6 @@
     "name": "Chat AI 談話",
     "desc": "隨時隨地的智能對話夥伴",
     "url": "https://cas617.github.io/chat/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/w.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/chat.webp"
   }
 ]
