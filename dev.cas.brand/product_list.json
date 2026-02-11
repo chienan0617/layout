@@ -3,48 +3,63 @@
     "name": "Weather 天氣預報",
     "desc": "精準掌握全球氣象動態",
     "url": "https://cas617.github.io/w/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/w.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/w.webp",
+    "tag": null
+  },
+  {
+    "name": "Weather 天氣預報",
+    "desc": "精準掌握全球氣象動態",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/w2.webp",
+    "tag": "upcoming!"
   },
   {
     "name": "AI 單字搜尋",
     "desc": "智慧學習，高效背誦核心詞彙",
     "url": "https://cas617.github.io/v/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
+    "tag": null
   },
   {
     "name": "Todo Note 代辦事項",
     "desc": "強化你的生活流程與任務管理",
     "url": "https://cas617.github.io/n/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/n.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/n.webp",
+    "tag": null
   },
   {
     "name": "Todo List 代辦事項",
     "desc": "簡化你的生活流程與任務管理",
     "url": "https://cas617.github.io/t/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/t.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/t.webp",
+    "tag": null
   },
   {
     "name": "捷運轉盤",
     "desc": "一個捷運轉盤",
     "url": "https://chienan0617.github.io/wheel",
-    "logo": "https://chienan0617.github.io/layout/common/logos/wheel.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/wheel.webp",
+    "tag": null
   },
   {
     "name": "Block 方塊消消",
     "desc": "極簡風格的趣味益智挑戰",
     "url": "https://cas617.github.io/b/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/b.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/b.webp",
+    "tag": null
   },
   {
     "name": "阿堂瑞萬哥",
     "desc": "一個阿堂的阿堂哥",
     "url": "https://cas617.github.io/s/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/s.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/s.webp",
+    "tag": null
   },
   {
     "name": "Chat AI 談話",
     "desc": "隨時隨地的智能對話夥伴",
     "url": "https://cas617.github.io/chat/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/chat.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/chat.webp",
+    "tag": null
   }
 ]
