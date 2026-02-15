@@ -9,9 +9,9 @@
   {
     "name": "Easy Weather",
     "desc": "精準掌握全球氣象動態",
-    "url": null,
+    "url": "https://chienan0617.github.io/easy_weather",
     "logo": "https://chienan0617.github.io/layout/common/logos/w2.webp",
-    "tag": "即將到來!"
+    "tag": null
   },
   {
     "name": "AI 單字搜尋",
@@ -19,6 +19,13 @@
     "url": "https://cas617.github.io/v/",
     "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
     "tag": null
+  },
+  {
+    "name": "Daily Keep",
+    "desc": "簡單的便條",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/daily_keep.webp",
+    "tag": "即將到來!"
   },
   {
     "name": "Todo Note 代辦事項",
