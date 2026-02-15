@@ -4,7 +4,8 @@
     "desc": "精準掌握全球氣象動態",
     "url": "https://cas617.github.io/w/",
     "logo": "https://chienan0617.github.io/layout/common/logos/w.webp",
-    "tag": "舊版本"
+    "tag": "舊版本",
+    "tagColor": "#94a3b8"
   },
   {
     "name": "Easy Weather",
@@ -21,11 +22,20 @@
     "tag": null
   },
   {
+    "name": "Daily Spend",
+    "desc": "記錄每天的花費支出與收入",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/daily_spend.webp",
+    "tag": "即將到來!",
+    "tagColor": "#fbbf24"
+  },
+  {
     "name": "Daily Keep",
     "desc": "簡單的便條",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/daily_keep.webp",
-    "tag": "即將到來!"
+    "tag": "即將到來!",
+    "tagColor": "#818cf8"
   },
   {
     "name": "Todo Note 代辦事項",
