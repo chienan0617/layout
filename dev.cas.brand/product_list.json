@@ -23,6 +23,14 @@
     "tagColor": "#fbbf24"
   },
   {
+    "name": "AI Lab",
+    "desc": "集成了所有旗下的AI服務",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/ai_lab.webp",
+    "tag": "即將到來!",
+    "tagColor": "#fbbf24"
+  },
+  {
     "name": "Daily Spend",
     "desc": "記錄每天的花費支出與收入",
     "url": null,
