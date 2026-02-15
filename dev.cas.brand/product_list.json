@@ -1,6 +1,13 @@
 [
   {
-    "name": "Weather 天氣預報",
+    "name": "AI 單字搜尋",
+    "desc": "智慧學習，高效背誦核心詞彙",
+    "url": "https://cas617.github.io/v/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
+    "tag": null
+  },
+  {
+    "name": "Weather",
     "desc": "精準掌握全球氣象動態",
     "url": "https://cas617.github.io/w/",
     "logo": "https://chienan0617.github.io/layout/common/logos/w.webp",
@@ -14,13 +21,6 @@
     "logo": "https://chienan0617.github.io/layout/common/logos/w2.webp",
     "tag": "即將到來!",
     "tagColor": "#fbbf24"
-  },
-  {
-    "name": "AI 單字搜尋",
-    "desc": "智慧學習，高效背誦核心詞彙",
-    "url": "https://cas617.github.io/v/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
-    "tag": null
   },
   {
     "name": "Daily Spend",
