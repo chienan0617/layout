@@ -2,6 +2,7 @@
   {
     "name": "AI 單字搜尋",
     "desc": "智慧學習，高效背誦核心詞彙",
-    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp"
+    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
+    "to": "pages/vocabulary"
   }
 ]
