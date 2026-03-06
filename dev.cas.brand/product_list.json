@@ -7,6 +7,14 @@
     "tag": null
   },
   {
+    "name": "踩地雷",
+    "desc": "智慧學習，高效背誦核心詞彙",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/minesweeper.webp",
+    "tag": "即將到來!",
+    "tagColor": "#30df7c"
+  },
+  {
     "name": "Weather",
     "desc": "精準掌握全球氣象動態",
     "url": "https://cas617.github.io/w/",
