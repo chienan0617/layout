@@ -10,9 +10,15 @@
     "name": "Minesweeper 踩地雷",
     "desc": "極簡邏輯益智遊戲，挑戰數位推理極限",
     "url": "https://chienan0617.github.io/minesweeper_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/minesweeper.webp",
-    "tag": "即將推出",
-    "tagColor": "#15803d"
+    "logo": "https://chienan0617.github.io/layout/common/logos/minesweeper.webp"
+  },
+  {
+    "name": "Trace 日記追蹤",
+    "desc": "捕捉時光流轉，細膩描繪每一刻的生活脈絡",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/trace.webp",
+    "tag": "將推出!",
+    "tagColor": "#D47A6A"
   },
   {
     "name": "Weather",
