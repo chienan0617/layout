@@ -1,16 +1,11 @@
 [
   {
-    "name": "AI 單字搜尋",
-    "desc": "智能語意學習，高效掌握核心詞彙",
-    "url": "https://cas617.github.io/v/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
-    "tag": null
-  },
-  {
-    "name": "Minesweeper 踩地雷",
-    "desc": "極簡邏輯益智遊戲，挑戰數位推理極限",
-    "url": "https://chienan0617.github.io/minesweeper_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/minesweeper.webp"
+    "name": "Quick Lingual 快速翻譯",
+    "desc": "極速翻譯體驗，流暢連結全球語言脈絡",
+    "url": "https://chienan0617.github.io/quick_lingual_web/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/quick_lingual.webp",
+    "tagColor": "#0dd1a0",
+    "tag": "將到來!"
   },
   {
     "name": "Trace 日記追蹤",
@@ -20,12 +15,17 @@
     "tagColor": "#D47A6A"
   },
   {
-    "name": "Quick Lingual 快速翻譯",
-    "desc": "極速翻譯體驗，流暢連結全球語言脈絡",
-    "url": "https://chienan0617.github.io/quick_lingual_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/quick_lingual.webp",
-    "tagColor": "#0dd1a0",
-    "tag": "將到來!"
+    "name": "Minesweeper 踩地雷",
+    "desc": "極簡邏輯益智遊戲，挑戰數位推理極限",
+    "url": "https://chienan0617.github.io/minesweeper_web/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/minesweeper.webp"
+  },
+  {
+    "name": "AI 單字搜尋",
+    "desc": "智能語意學習，高效掌握核心詞彙",
+    "url": "https://cas617.github.io/v/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/v.webp",
+    "tag": null
   },
   {
     "name": "Weather",
