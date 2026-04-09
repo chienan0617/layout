@@ -15,6 +15,13 @@
     "tagColor": "#D47A6A"
   },
   {
+    "name": "計算機",
+    "desc": "一個簡易的計算機",
+    "url":"https://chienan0617.github.io/calculator_web",
+    "logo": "https://chienan0617.github.io/layout/common/logos/calculator.webp",
+    "tagColor": "#DE122D"
+  },
+  {
     "name": "Minesweeper 踩地雷",
     "desc": "極簡邏輯益智遊戲，挑戰數位推理極限",
     "url": "https://chienan0617.github.io/minesweeper_web/",
