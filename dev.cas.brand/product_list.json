@@ -1,5 +1,29 @@
 [
   {
+    "name": "Game Hub",
+    "desc": "多功能遊戲入口中心，集中管理各類互動體驗",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/game_hub.webp",
+    "tag": "開發中",
+    "tagColor": "#38BDF8"
+  },
+  {
+    "name": "Element Mix",
+    "desc": "元素融合與組合探索中心，打造多樣化互動內容",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/element_mix.webp",
+    "tag": "開發中",
+    "tagColor": "#A855F7"
+  },
+  {
+    "name": "Infinite Music",
+    "desc": "無限循環的音樂體驗與創作探索",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/infinite_music.webp",
+    "tag": "開發中",
+    "tagColor": "#FB7185"
+  },
+  {
     "name": "Infinite Mix 無限合成",
     "desc": "在無限可能的組合中探索",
     "url": "https://chienan0617.github.io/infinite_mix_web/",
