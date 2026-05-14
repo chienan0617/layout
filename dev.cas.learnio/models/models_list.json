@@ -1,0 +1,38 @@
+[
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemini-3.1-flash-lite-preview",
+    "desc": "最快速輕量",
+    "enable": true
+  },
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemini-3-flash-preview",
+    "desc": "快速解決複雜問題",
+    "enable": true
+  },
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemini-3.1-pro-preview",
+    "desc": "處理頂級複雜推理",
+    "enable": true
+  },
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemini-3-pro-preview",
+    "desc": "處理稍微複雜推理",
+    "enable": true
+  },
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemma-4-26b-a4b-it",
+    "desc": "深度處理簡單問題",
+    "enable": false
+  },
+  {
+    "gate_way": "google-ai-studio",
+    "name": "gemma-4-31b-it",
+    "desc": "深度處理稍微複雜問題",
+    "enable": false
+  }
+]
