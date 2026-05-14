@@ -1,37 +1,43 @@
 [
   {
     "gate_way": "google-ai-studio",
-    "name": "gemini-3.1-flash-lite-preview",
+    "id": "gemini-3.1-flash-lite-preview",
+    "name": "Gemini Flash Lite 3.1",
     "desc": "最快速輕量",
     "enable": true
   },
   {
     "gate_way": "google-ai-studio",
-    "name": "gemini-3-flash-preview",
+    "id": "gemini-3-flash-preview",
+    "name": "Gemini Flash 3",
     "desc": "快速解決複雜問題",
     "enable": true
   },
   {
     "gate_way": "google-ai-studio",
-    "name": "gemini-3.1-pro-preview",
+    "id": "gemini-3.1-pro-preview",
+    "name": "Gemini 3.1 Pro",
     "desc": "處理頂級複雜推理",
     "enable": true
   },
   {
     "gate_way": "google-ai-studio",
-    "name": "gemini-3-pro-preview",
+    "id": "gemini-3-pro-preview",
+    "name": "Gemini 3 Pro",
     "desc": "處理稍微複雜推理",
     "enable": true
   },
   {
     "gate_way": "google-ai-studio",
-    "name": "gemma-4-26b-a4b-it",
+    "id": "gemma-4-26b-a4b-it",
+    "name": "Gemma 4 26B",
     "desc": "深度處理簡單問題",
     "enable": false
   },
   {
     "gate_way": "google-ai-studio",
-    "name": "gemma-4-31b-it",
+    "id": "gemma-4-31b-it",
+    "name": "Gemma 4 31B",
     "desc": "深度處理稍微複雜問題",
     "enable": false
   }
