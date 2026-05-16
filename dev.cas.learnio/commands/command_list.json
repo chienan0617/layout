@@ -1,0 +1,16 @@
+[
+  {
+    "name": "清除對話",
+    "desc": "開始一則新對話並清除當畫面",
+    "icon": "delete_sweep_outlined",
+    "output": null,
+    "enable": false
+  },
+  {
+    "name": "總結對話",
+    "desc": "讓AI總結目前的對話內容",
+    "icon": "summarize_outlined",
+    "output": "請總結目前對話",
+    "enable": true
+  }
+]
