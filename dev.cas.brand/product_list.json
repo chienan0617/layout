@@ -1,5 +1,29 @@
 [
   {
+    "name": "Notezen",
+    "desc": "高效智慧學習與筆記管理，建構個人化知識體系",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/notezen.webp",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Ledgify",
+    "desc": "精準智慧記帳與財務追蹤，輕鬆掌管日常收支",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/ledgify.webp",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Infinite",
+    "desc": "無限可能的探索與互動體驗",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/infinite.webp",
+    "tag": "開發中",
+    "tagColor": "#10B981"
+  },
+  {
     "name": "Game Hub",
     "desc": "多功能遊戲入口中心，集中管理各類互動體驗",
     "url": null,
