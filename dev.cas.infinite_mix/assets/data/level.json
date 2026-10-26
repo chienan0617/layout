@@ -15,7 +15,7 @@
   "canvasMaxScale": 3.0,
   "enableTapDuplicate": true,
   "enableMultiSelect": true,
-  "enableMultiMix": true,
+  "enableMultiMix": false,
   "enableKeyboardShortcuts": true,
   "enableAutoArrange": true,
   "autoArrangeSpacing": 110.0,
