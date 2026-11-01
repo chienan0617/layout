@@ -2,7 +2,7 @@
   "defaultGoalSimilarityThreshold": 0.8875,
   "nearMissThreshold": 0.72,
   "minResonanceThreshold": 0.4,
-  "thresholdDecrementPerMix": 0.0025,
+  "thresholdDecrementPerMix": 0.00125,
   "minGoalSimilarityThreshold": 0.5,
   "enableClientThresholdOverride": true,
   "exactMatchBypassesThreshold": true,

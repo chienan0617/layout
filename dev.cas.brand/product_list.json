@@ -1,5 +1,29 @@
 [
   {
+    "name": "Mountain Road",
+    "desc": "擬真山路駕駛體驗與地形探索模擬",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "MRT Network Tycoon",
+    "desc": "捷運路網營運與交通規劃模擬",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Block Bloom",
+    "desc": "沉浸式幾何方塊消除與益智挑戰",
+    "url": null,
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
     "name": "Notezen",
     "desc": "高效智慧學習與筆記管理，建構個人化知識體系",
     "url": null,
