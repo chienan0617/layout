@@ -14,38 +14,6 @@
     "tagColor": "#3B82F6"
   },
   {
-    "name": "Boba Shop Sim",
-    "desc": "珍珠奶茶店營運管理與飲品調製模擬",
-    "url": "https://cas617.github.io/tea/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
-  },
-  {
-    "name": "Retention",
-    "desc": "溫柔珍藏毛孩相伴點滴，專屬的寵物紀念與追思空間",
-    "url": "https://cas617.github.io/retention/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/retention.webp",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
-  },
-  {
-    "name": "Mountain Road",
-    "desc": "擬真山路駕駛體驗與地形探索模擬",
-    "url": "https://cas617.github.io/mountain/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
-  },
-  {
-    "name": "MRT Network Tycoon",
-    "desc": "捷運路網營運與交通規劃模擬",
-    "url": "https://cas617.github.io/metro/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
-  },
-  {
     "name": "Block Bloom",
     "desc": "沉浸式幾何方塊消除與益智挑戰",
     "url": "https://cas617.github.io/block/",
@@ -58,6 +26,45 @@
     "desc": "高效智慧學習與筆記管理，建構個人化知識體系",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/notezen.webp",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Retention",
+    "desc": "溫柔珍藏毛孩相伴點滴，專屬的寵物紀念與追思空間",
+    "url": "https://cas617.github.io/retention/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/retention.webp",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "MRT Wheel 捷運轉盤",
+    "desc": "互動式捷運路網決策工具",
+    "url": "https://chienan0617.github.io/wheel",
+    "logo": "https://chienan0617.github.io/layout/common/logos/wheel.webp",
+    "tag": null
+  },
+  {
+    "name": "Mountain Road",
+    "desc": "擬真山路駕駛體驗與地形探索模擬",
+    "url": "https://cas617.github.io/mountain/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Boba Shop Sim",
+    "desc": "珍珠奶茶店營運管理與飲品調製模擬",
+    "url": "https://cas617.github.io/tea/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "MRT Network Tycoon",
+    "desc": "捷運路網營運與交通規劃模擬",
+    "url": "https://cas617.github.io/metro/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
     "tag": "開發中",
     "tagColor": "#3B82F6"
   },
@@ -202,13 +209,6 @@
     "desc": "輕量化日程管理，保持生活條理分明",
     "url": "https://cas617.github.io/t/",
     "logo": "https://chienan0617.github.io/layout/common/logos/t.webp",
-    "tag": null
-  },
-  {
-    "name": "MRT Wheel 捷運轉盤",
-    "desc": "互動式捷運路網決策工具",
-    "url": "https://chienan0617.github.io/wheel",
-    "logo": "https://chienan0617.github.io/layout/common/logos/wheel.webp",
     "tag": null
   },
   {
