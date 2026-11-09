@@ -1,8 +1,38 @@
 [
   {
+    "name": "Infinite Mix 無限合成",
+    "desc": "在無限可能的組合中探索",
+    "url": "https://chienan0617.github.io/infinite_mix_web/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/infinite_mix.webp"
+  },
+  {
+    "name": "Pocket Golf",
+    "desc": "輕巧掌上高爾夫推桿與關卡挑戰",
+    "url": "https://cas617.github.io/golf/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Boba Shop Sim",
+    "desc": "珍珠奶茶店營運管理與飲品調製模擬",
+    "url": "https://cas617.github.io/tea/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
+    "name": "Retention",
+    "desc": "溫柔珍藏毛孩相伴點滴，專屬的寵物紀念與追思空間",
+    "url": "https://cas617.github.io/retention/",
+    "logo": "https://chienan0617.github.io/layout/common/logos/retention.webp",
+    "tag": "開發中",
+    "tagColor": "#3B82F6"
+  },
+  {
     "name": "Mountain Road",
     "desc": "擬真山路駕駛體驗與地形探索模擬",
-    "url": null,
+    "url": "https://cas617.github.io/mountain/",
     "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
     "tag": "開發中",
     "tagColor": "#3B82F6"
@@ -70,12 +100,6 @@
     "logo": "https://chienan0617.github.io/layout/common/logos/infinite_music.webp",
     "tag": "開發中",
     "tagColor": "#FB7185"
-  },
-  {
-    "name": "Infinite Mix 無限合成",
-    "desc": "在無限可能的組合中探索",
-    "url": "https://chienan0617.github.io/infinite_mix_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/infinite_mix.webp"
   },
   {
     "name": "Quick Lingual 快速翻譯",
