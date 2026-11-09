@@ -9,33 +9,27 @@
     "name": "Pocket Golf",
     "desc": "輕巧掌上高爾夫推桿與關卡挑戰",
     "url": "https://cas617.github.io/golf/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/golf.webp",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/golf.webp"
   },
   {
     "name": "Block Bloom",
     "desc": "沉浸式幾何方塊消除與益智挑戰",
     "url": "https://cas617.github.io/block/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg"
   },
   {
     "name": "Notezen",
     "desc": "高效智慧學習與筆記管理，建構個人化知識體系",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/notezen.webp",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Retention",
     "desc": "溫柔珍藏毛孩相伴點滴，專屬的寵物紀念與追思空間",
     "url": "https://cas617.github.io/retention/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg"
   },
   {
     "name": "MRT Wheel 捷運轉盤",
@@ -48,80 +42,71 @@
     "name": "Mountain Road",
     "desc": "擬真山路駕駛體驗與地形探索模擬",
     "url": "https://cas617.github.io/mountain/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg"
   },
   {
     "name": "Boba Shop Sim",
     "desc": "珍珠奶茶店營運管理與飲品調製模擬",
     "url": "https://cas617.github.io/tea/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg"
   },
   {
     "name": "MRT Network Tycoon",
     "desc": "捷運路網營運與交通規劃模擬",
     "url": "https://cas617.github.io/metro/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "logo": "https://chienan0617.github.io/layout/common/logos/CA_logo.svg"
   },
   {
     "name": "Ledgify",
     "desc": "精準智慧記帳與財務追蹤，輕鬆掌管日常收支",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/ledgify.webp",
-    "tag": "開發中",
-    "tagColor": "#3B82F6"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Infinite",
     "desc": "無限可能的探索與互動體驗",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/infinite.webp",
-    "tag": "開發中",
-    "tagColor": "#10B981"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Game Hub",
     "desc": "多功能遊戲入口中心，集中管理各類互動體驗",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/game_hub.webp",
-    "tag": "開發中",
-    "tagColor": "#38BDF8"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Element Mix",
     "desc": "元素融合與組合探索中心，打造多樣化互動內容",
     "url": "https://chienan0617.github.io/element_mix_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/element_mix.webp",
-    "tag": "開發中",
-    "tagColor": "#A855F7"
+    "logo": "https://chienan0617.github.io/layout/common/logos/element_mix.webp"
   },
   {
     "name": "Infinite Music",
     "desc": "無限循環的音樂體驗與創作探索",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/infinite_music.webp",
-    "tag": "開發中",
-    "tagColor": "#FB7185"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Quick Lingual 快速翻譯",
     "desc": "極速翻譯體驗，流暢連結全球語言脈絡",
     "url": "https://chienan0617.github.io/quick_lingual_web/",
-    "logo": "https://chienan0617.github.io/layout/common/logos/quick_lingual.webp",
-    "tagColor": "#0dd1a0",
-    "tag": "將到來!"
+    "logo": "https://chienan0617.github.io/layout/common/logos/quick_lingual.webp"
   },
   {
     "name": "Trace 日記追蹤",
     "desc": "捕捉時光流轉，細膩描繪每一刻的生活脈絡",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/trace.webp",
-    "tagColor": "#D47A6A"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "計算機",
@@ -155,17 +140,15 @@
     "name": "Easy Weather",
     "desc": "純淨氣象體驗，直覺化的天氣預報",
     "url": "https://chienan0617.github.io/easy_weather",
-    "logo": "https://chienan0617.github.io/layout/common/logos/w2.webp",
-    "tag": "敬請期待",
-    "tagColor": "#fbbf24"
+    "logo": "https://chienan0617.github.io/layout/common/logos/w2.webp"
   },
   {
     "name": "Fast Note",
     "desc": "靈感瞬時紀錄，極致輕快的筆記體驗",
     "logo": "https://chienan0617.github.io/layout/common/logos/fastnote.webp",
     "url": null,
-    "tag": "敬請期待",
-    "tagColor": "#fbbf24"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Formify",
@@ -178,24 +161,24 @@
     "desc": "跨領域 AI 服務整合中心，探索智能邊界",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/ai_lab.webp",
-    "tag": "開發中",
-    "tagColor": "#818cf8"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Daily Spend",
     "desc": "直覺化收支管理，精準掌控每日財務流向",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/daily_spend.webp",
-    "tag": "敬請期待",
-    "tagColor": "#818cf8"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Daily Keep",
     "desc": "極簡生活便條，隨手封存重要資訊",
     "url": null,
     "logo": "https://chienan0617.github.io/layout/common/logos/daily_keep.webp",
-    "tag": "規劃中",
-    "tagColor": "#818cf8"
+    "tag": "未公開",
+    "tagColor": "#64748B"
   },
   {
     "name": "Todo Note 待辦筆記",
